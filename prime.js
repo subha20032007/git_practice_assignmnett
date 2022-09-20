@@ -1,3 +1,4 @@
+
 function primecheck(N){
     let count =0;
     
@@ -22,5 +23,4 @@ function primecheck(N){
     }
         
     primecheck(13)
-    
     
